@@ -1,6 +1,9 @@
 import media
 import fresh_tomatoes
 
+# media.py contains class definitions for Movie
+# fresh_tomaties.py generates the HTML webpage
+
 toy_story = media.Movie(
     "Toy Story",
     "A story of a boy and his toys that come to life",
